@@ -2,20 +2,19 @@
   {
     "id": 1,
     "name": "Krish",
-    "email":"harikbe2006@gmail.com",
+    "email": "harikbe2006@gmail.com",
     "role": "Developer"
   },
   {
     "id": 2,
     "name": "Gokul",
-    "email":"gokulgk547.com",
+    "email": "gokulgk547@gmail.com",
     "role": "Designer"
   },
   {
     "id": 3,
     "name": "Krishnaa",
-    "email":"harikrishnaa57@gmail.com",
+    "email": "harikrishnaa57@gmail.com",
     "role": "Designer"
   }
-
 ]
